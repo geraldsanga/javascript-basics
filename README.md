@@ -1,2 +1,2 @@
-# javascript_basics
-Programming basics using javascript
+# javascript-basics
+Simple programms using javascript
